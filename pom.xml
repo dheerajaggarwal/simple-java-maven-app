@@ -17,6 +17,7 @@
   </dependencies>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <jenkins.e2eTests.reportsDirectory>target/surefire-reports</jenkins.e2eTests.reportsDirectory>
   </properties>
   <build>
     <pluginManagement>
